@@ -61,7 +61,7 @@ serve(async function handler(req) {
               <li class="tl">licenses.txt</li>
           </ol>
           <h2 id="how-to">HOW TO USE</h2>
-          <p>Pick a license and copy and paste it into your project. Don't forget to replace some of the values that are within square braces.</p>
+          <p>Pick a license and copy and paste it into your project under <code>LICENSE.txt</code>. Don't forget to replace some of the values that are within square braces.</p>
           <p>Alternatively, feel free to just <code>curl</code> the text files.</p>
           <p>If you don't know which to pick and want to go with something permissive, just use <strong>MIT.txt</strong>, <strong>wtfpl.txt</strong> or <strong>unlicense.txt</strong>.</p>
           <p>If you REALLY need help, visit <a href="https://choosealicense.com/" target="_blank">choosealicense.com</a>.</p>
