@@ -2,6 +2,8 @@
 
 Dumb way to list available licenses that can be easily `curl`-ed locally.
 
+Hosted on [Deno Deploy](https://xdrdak-license-file-server.deno.dev/)
+
 ## Starting Locally
 
 ```
